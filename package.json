@@ -30,6 +30,7 @@
     "@fortawesome/free-solid-svg-icons": "^6.1.2",
     "@graphql-tools/webpack-loader": "^6.7.1",
     "apollo-angular": "^3.0.1",
+    "express": "^4.22.3",
     "graphql": "^16",
     "normalize.css": "^8.0.1",
     "rxjs": "~7.5.0",
